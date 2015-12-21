@@ -6,7 +6,7 @@ Boots an EC2 instance and uses it to download a bunch of files.
 
 # Usage:
 
-$ aws-grab.py --keypair <aws-keypair-name> --urlfile <list-of-urls>
+`$ aws-grab.py --keypair <aws-keypair-name> --urlfile <list-of-urls>`
 
 ---
 
